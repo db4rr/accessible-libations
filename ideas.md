@@ -5,9 +5,13 @@
 {:toc}
 
 ## Customizable classics
-While the [International Bartenders Association](https://iba-world.com) maintains an exhaustive list of standardized, authoritative mixed beverage recipes, many of such recipes represent variations and combination of traditional patterns/specifications: sour, highball, sling, flip... The standard specs are useful for consistency and as a reference for drinkers and consumers, but can be intimidating for people who haven't had the change to taste multiple iterations and recognize the similarities hidden between the seemingly arbitrary names given to many of the world's best-known mixed drinks.
+While the [International Bartenders Association](https://iba-world.com) maintains an exhaustive list of standardized, authoritative mixed beverage recipes, many of such recipes represent variations and combination of traditional patterns/specifications: sour, highball, sling, flip...
 
-In an attempt to encourage people to both experiment and understand the patterns that make certain mixed drinks "work", a set of classic specs can be used as bases for a variety of accessible customizations. The exercise will be even more accessible if the patterns are chosen so that a large number of variations can be achieved from a small set of ingredients and equipment. Last, it adviseable to include a "reference" spec, which may correspond to an IBA recipe.
+The standard specs are useful for consistency and as a reference for drinkers and consumers, but can be intimidating for people who haven't had the change to taste multiple iterations and recognize the similarities hidden between the seemingly arbitrary names given to many of the world's best-known mixed drinks.
+
+In an attempt to encourage people to both experiment and understand the patterns that make certain mixed drinks "work", a set of classic specs can be used as bases for a variety of accessible customizations.
+
+The exercise will be even more accessible if the patterns are chosen so that a large number of variations can be achieved from a small set of ingredients and equipment. Last, it is adviseable to include a "reference" spec, which may correspond to an IBA recipe.
 
 ### Old-fashioned as overall reference
 Recognised as the "original cocktail", defined as a mixture of spirits, water, sugar and bitters. The spirits in this case are barrel-aged grain liquor, traditionally either rye or Bourbon whiskey. As for bitters, the gentian-heavy Angostura bitters have become the standard and the most readily available.
