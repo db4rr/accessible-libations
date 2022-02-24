@@ -1,4 +1,7 @@
 # Ideas
+{:.no_toc}
+
+* Contents
 {:toc}
 
 ## Customizable classics
