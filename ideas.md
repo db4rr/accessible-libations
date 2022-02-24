@@ -21,20 +21,22 @@ The old fashioned is simple and accessible, and does not even require a shaker o
 Mixing sugar with water and a favoring ingredient on the bottom of a glass is known as "muddling". Traditional recipes call for granulated sugar or sugar cubes, but powdered sugar can be used to avoid leaving undissolved sugar crystals in the drink. 
 
 ### Highballs
-A highball is named after the glass in which it is served: a tall glass frequently served in train's dining cars (to avoid spillage). American high-speed trains were known as "highballs" after a particular railroad signal indicating full speed ahead. Highball drinks have a relative high amount of non-alcoholic ingredients (the "mixer"), and variations can be made completely non-alcoholic.
+A highball is named after the glass in which it is served: a tall glass frequently served in train's dining cars (to avoid spillage). American high-speed trains were known as "highballs" after a particular railroad signal indicating full speed ahead.
+
+Highball drinks have a relative high amount of non-alcoholic ingredients (the "mixer"), and variations can be made completely non-alcoholic.
 
 - Reference spec #1: **Whiskey and Soda**. Pour a measure of *whiskey*, add ice and top with *carbonated water*.
 - Reference spec #2: **Gin and Tonic**. Pour a measure of *gin*, add ice and top with *tonic water*.
 - Reference spec #3: **Mojito**. Muddle fresh *mint*, sugar and *lime juice*. Pour a measure of *rum*, add ice and top with *carbonated water*.
 
 Variations:
-- **Mint Julep**: substitute rum with *bourbon* in a Mojito. If possible, serve with crushed ice.
-- **Gin Rickey**: Pour a measure of *gin*, add the juice of half a *lime*, add ice and top with *carbonated water*.
-- **Bourbon Rickey**: Pour a measure of *bourbon*, add the juice of half a *lime*, add ice and top with *carbonated water*.
+  - **Mint Julep**: substitute rum with *bourbon* in a Mojito. If possible, serve with crushed ice.
+  - **Gin Rickey**: Pour a measure of *gin*, add the juice of half a *lime*, add ice and top with *carbonated water*.
+  - **Bourbon Rickey**: Pour a measure of *bourbon*, add the juice of half a *lime*, add ice and top with *carbonated water*.
 
 Non-alcoholic variations:
-- **Virgin mojito**: omit the rum, use brown sugar to incorporate sugarcane/molasses aroma.
-- **Juniper and tonic**: substitute gin with *smreka* (fermented juniper berry water) in a gin ad tonic.
+  - **Virgin mojito**: omit the rum, use brown sugar to incorporate sugarcane/molasses aroma.
+  - **Juniper and tonic**: substitute gin with *smreka* (fermented juniper berry water) in a gin ad tonic.
 
 ### The Martini family
 TBD. This allows customization of the levels of non-spirits, and of the effect that different garnishes can have on the drink. 
