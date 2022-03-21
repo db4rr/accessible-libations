@@ -26,6 +26,7 @@ The celebration was to be hosted in Poland, hence the references to products ava
 - 1x bottle of **non-alcoholic white wine**
 - 2x 1L bottles of **gin**
 - 2x 1L bottles of **vodka**
+- 1x 1L bottle of **rum**
 - 1x 1L bottle of **rye whiskey** (substitute with Irish whiskey if not available)
 - 1x 1L bottle of **bourbon**
 - 1x 0.7L bottle of **dry vermouth** (Martini's dark green bottle)
