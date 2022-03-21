@@ -17,12 +17,12 @@ The celebration was to be hosted in Poland, hence the references to products ava
 - 3 sprigs of fresh mint
 - 2 sprigs of fresh rosemary 
 - Jar of green olives (without filling)
-- Jar of preseved onions
-    - Provided by DBF
+- Jar of preseved onions  
+  (*Provided by DBF*)
 
 ### Spirits and non-spirits
-- 2x 1L bottles of **non-alcoholic gin or [Smreka](https://balkanlunchbox.com/fermented-juniper-berry-juice-smreka/)**
-    - Provided by DBF
+- 2x 1L bottles of **non-alcoholic gin or [Smreka](https://balkanlunchbox.com/fermented-juniper-berry-juice-smreka/)**  
+  (*Provided by DBF*)
 - 1x bottle of **non-alcoholic white wine**
 - 2x 1L bottles of **gin**
 - 2x 1L bottles of **vodka**
@@ -31,19 +31,19 @@ The celebration was to be hosted in Poland, hence the references to products ava
 - 1x 0.7L bottle of **dry vermouth** (Martini's dark green bottle)
 - 1x 0.7L bottle of **red sweet vermouth**
 - 1x 0.7L bottle of **Campari**
-- 1x bottle of **Angostura bitters**
-    - Provided by DBF
-- Maraschino or apricot kernel liqueur
-    - Provided by DBF
+- 1x bottle of **Angostura bitters**  
+  (*Provided by DBF*)
+- Maraschino or apricot kernel liqueur  
+  (*Provided by DBF*)
 
 ### Equipment
 - 1x pack of **powdered sugar**
-- 3x **shakers**
-    - 2 Provided by DBF, third one by hosts :)
-- 2x **mixing glasses with spoons**
-    - Provided by DBF
-- **Citrus juicer**
-    - Provided by DBF
+- 2x **shakers**
+  (*One provided by DBF, another by hosts*)
+- 2x **mixing glasses with spoons**  
+  (*Provided by DBF*)
+- **Citrus juicer**  
+  (*Provided by DBF*)
 - **Ice**. As much as possible.
 - **Short tumblers** ([reference](https://commons.wikimedia.org/wiki/Category:Tumblers_(drinking_glasses)#/media/File:Trinkglas,_Tumbler-Form.jpg))
 - **Highball glasses** ([reference](https://upload.wikimedia.org/wikipedia/commons/c/c8/Highball_Glass_%28Tumbler%29.svg))
