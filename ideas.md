@@ -28,16 +28,21 @@ Highball drinks have a relative high amount of non-alcoholic ingredients (the "m
 - Reference spec #1: **Whiskey and Soda**. Pour a measure of *whiskey*, add ice and top with *carbonated water*.
 - Reference spec #2: **Gin and Tonic**. Pour a measure of *gin*, add ice and top with *tonic water*.
 - Reference spec #3: **Mojito**. Muddle fresh *mint*, sugar and *lime juice*. Pour a measure of *rum*, add ice and top with *carbonated water*.
-- Reference spec #4: **Mule**. Combine *vodka* and *ginger beer*. Add l*ime juice* and gently stir to involve all ingredients.
+- Reference spec #4: **Mule**. Combine *vodka* and *ginger beer*. Add *lime juice* and gently stir to involve all ingredients.
 
 Variations:
   - **Mint Julep**: substitute rum with *bourbon* in a Mojito. If possible, serve with crushed ice.
   - **Gin Rickey**: Pour a measure of *gin*, add the juice of half a *lime*, add ice and top with *carbonated water*.
   - **Bourbon Rickey**: Pour a measure of *bourbon*, add the juice of half a *lime*, add ice and top with *carbonated water*.
+  - **Rosemary fizz**: Muddle fresh rosemary, sugar and **lemon juice**. Pour a measure of **gin**, add ice, and top with tonic or carbonated water.
+  - **Buck**: substitute vodka with whiskey or bourbon, add *ginger ale* and *lime juice*.  
+    The Buck was the original spec for the (Moscow) mule, the vodka version became popular after World War II. 
 
 Non-alcoholic variations:
   - **Virgin mojito**: omit the rum, use brown sugar to incorporate sugarcane/molasses aroma.
   - **Juniper and tonic**: substitute gin with *smreka* (fermented juniper berry water) in a gin ad tonic.
+  - **Virgin rosemary fizz**: omit the gin.
+  - **Virgin buck**: omit the spirits. Can include muddled mint.
 
 ### The Martini family
 Classic and iconic.  
@@ -56,7 +61,7 @@ A non-alcoholic version can be made with Smreka and non-alcoholic white wine.
 It can be "gibsonized" with an onion garnish, or made dirty with olive garnish and brine.
 
 Related cocktail:
-- **Manhattan**: Substitute gin/vodka for whiskey, substitute dry vermouth for sweet red vermouth.  
+- **Manhattan**: Substitute gin/vodka for whiskey, substitute dry vermouth for sweet red vermouth, add a few dashes of **Angostura bitters**.
 Calling the Manhattan a member of the Martini family would be controversial, but it is certainly related in terms of proportions and technique.
 The traditional garnish is a maraschino cherry, but can be substituted with an orange peel.
 
