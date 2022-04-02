@@ -6,7 +6,7 @@ Each of these recipes are meant to be printed on an page together with their acc
 
 ### Old Fashioned
 
-Glass: Short tumbler
+Glass: Short tumbler  
 Ingredients: **1 full measure of whiskey**, **Angostura bitters**, **sugar**, **water**
 
 1. Put a teaspoon of powdered sugar on a short tumbler
@@ -20,7 +20,7 @@ Ingredients: **1 full measure of whiskey**, **Angostura bitters**, **sugar**, **
 
 ### Mojito
 
-Glass: Highball
+Glass: Highball  
 Ingredients: **1 full measure of white rum**, **juice of half a lime**, **sugar**, **carbonated water**
 
 1. Put 6 leaves of mint and 1 teaspoon of sugar on a highball glass
@@ -47,7 +47,7 @@ Ingredients: **1 full measure of white rum**, **juice of half a lime**, **sugar*
 
 ### Mule
 
-Glass: Highball
+Glass: Highball  
 Ingredients: **1 full measure of vodka**, **juice of half a lime**, **ginger beer**
 
 1. Pour a full measure of vodka on a highball glass
@@ -66,7 +66,7 @@ Ingredients: **1 full measure of vodka**, **juice of half a lime**, **ginger bee
 
 ### Martini
 
-Glass: cocktail glass + mixing glass
+Glass: cocktail glass + mixing glass  
 Ingredientes: **1 full measure of gin or vodka**, **1 small measure of dry vermouth**
 
 1. Add ice to a mixing glass
@@ -87,7 +87,7 @@ Non-alcoholic Martinis can be made with non-alcoholic gin and non-alcoholic wine
 
 ### Negroni
 
-Glass: Short tumbler
+Glass: Short tumbler  
 Ingredients: **1 small measure of campari**, **1 small measure of sweet red vermouth**, **1 small measure of gin**
 
 1. Combine all ingredients on the glass
