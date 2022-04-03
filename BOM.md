@@ -51,3 +51,10 @@ The celebration was to be hosted in Poland, hence the references to products ava
 - **Cocktail glasses**  
 Modern [martini glasses](https://en.wikipedia.org/wiki/Cocktail_glass) are cumbersome, and classic [Nick & Nora glasses](https://www.crateandbarrel.com/nick-and-nora-glass/s444582) may be too precious.  
 A good compromise are these [IKEA wine glasses](https://www.ikea.com/pl/pl/p/foersiktigt-kieliszek-do-wina-80300207/).
+
+### Equipment Placement
+
+#### Highball stand
+- Mint with muddler in small bucket
+- Rosemary with muddler in small bucket
+- Sugar with teaspoon in container
