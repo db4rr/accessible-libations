@@ -21,17 +21,19 @@ The celebration was to be hosted in Poland, hence the references to products ava
   (*Provided by DBF*)
 
 ### Spirits and non-spirits
-- 2x 1L bottles of **non-alcoholic gin or [Smreka](https://balkanlunchbox.com/fermented-juniper-berry-juice-smreka/)**  
+- 3x bottles of **non-alcoholic gin or [Smreka](https://balkanlunchbox.com/fermented-juniper-berry-juice-smreka/)**  
   (*Provided by DBF*)
+- 1x bottle of **non-alcoholic aperitif**
 - 1x bottle of **non-alcoholic white wine**
-- 2x 1L bottles of **gin**
-- 2x 1L bottles of **vodka**
-- 1x 1L bottle of **rum**
-- 1x 1L bottle of **rye whiskey** (substitute with Irish whiskey if not available)
-- 1x 1L bottle of **bourbon**
-- 1x 0.7L bottle of **dry vermouth** (Martini's dark green bottle)
-- 1x 0.7L bottle of **red sweet vermouth**
-- 1x 0.7L bottle of **Campari**
+- 1x bottle of **non-alcoholic red wine**
+- 3x bottles of **gin**
+- 2x bottles of **vodka**
+- 1x bottle of **rum**
+- 1x bottle of **rye whiskey** (substitute with Irish whiskey if not available)
+- 2x bottlse of **bourbon**
+- 1x bottle of **dry vermouth** (Martini's dark green bottle)
+- 1x bottle of **red sweet vermouth**
+- 1x bottle of **Campari**
 - 1x bottle of **Angostura bitters**  
   (*Provided by DBF*)
 - Maraschino or apricot kernel liqueur  
@@ -39,11 +41,13 @@ The celebration was to be hosted in Poland, hence the references to products ava
 
 ### Equipment
 - 1x pack of **powdered sugar**
-- 2x **shakers**
-  (*One provided by DBF, another by hosts*)
+- 1x pack of **cane sugar**
 - 2x **mixing glasses with spoons**  
   (*Provided by DBF*)
-- **Citrus juicer**  
+- 3x **muddlers**
+- **Lemon juicer**  
+  (*Provided by DBF*)
+- **Lime juicer**  
   (*Provided by DBF*)
 - **Ice**. As much as possible.
 - **Short tumblers** ([reference](https://commons.wikimedia.org/wiki/Category:Tumblers_(drinking_glasses)#/media/File:Trinkglas,_Tumbler-Form.jpg))
@@ -55,6 +59,62 @@ A good compromise are these [IKEA wine glasses](https://www.ikea.com/pl/pl/p/foe
 ### Equipment Placement
 
 #### Highball stand
-- Mint with muddler in small bucket
-- Rosemary with muddler in small bucket
-- Sugar with teaspoon in container
+- Ice bucket
+- Highball glasses
+- Container with straws
+- Mint with muddler in container
+- Rosemary with muddler in scontainer
+- Cane sugar with teaspoon in container
+- 3 bottles of carbonated water
+- 3 bottles of tonic water
+- 3 bottles of ginger beer
+- Lime juicer
+- Lemon juicer
+- Halved limes in container
+- Halved lemons in container
+- Lime wedges in plate
+- Lemon pieces in plate
+- 1x bottle of white rum
+- 1x bottle of vodka
+- 1x bottle of gin
+- 1x bottle of non-alcoholic gin
+- 1x bottle of bourbon
+- Recipes for Mojito and Mule
+
+#### Old-fashioned stand
+- Ice bucket
+- Short tumblers
+- Powdered sugar with teaspoon in container
+- Plain water with teaspoon in container
+- Muddler
+- 1x Angostura bitters
+- 1x Rye Whiskey
+- Recipe for Old-fashioned
+
+#### Martini stand
+- Ice bucket
+- Cocktail glasses
+- 2x Mixing glass with spoons
+- 1x bottle of gin
+- 1x bottle of vodka
+- 1x bottle of dry vermouth
+- 1x bottle of non-alcoholic gin
+- 1x bottle of non-alcoholic white wine
+- Jar of olives with spoon
+- Jar of pickled onions
+- Cylindrical toothpicks
+- Recipe for Martini
+
+#### Negroni stand
+- Ice bucket
+- Short tumblers
+- 1x bottle of Campari
+- 1x bottle of sweet red vermouth
+- 1x bottle of gin
+- 1x bottle of bourbon
+- 1x bottle of non-alcoholic aperitif
+- 1x bottle of non-alcoholic red wine
+- 1x bottle of non-alcoholic gin
+- 1x bottle of carbonated water
+- Orange slices in plate
+- Recipe for Negroni
