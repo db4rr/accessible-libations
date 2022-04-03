@@ -61,8 +61,8 @@ A non-alcoholic version can be made with Smreka and non-alcoholic white wine.
 It can be "gibsonized" with an onion garnish, or made dirty with olive garnish and brine.
 
 Related cocktail:
-- **Manhattan**: Substitute gin/vodka for whiskey, substitute dry vermouth for sweet red vermouth, add a few dashes of **Angostura bitters**.
-Calling the Manhattan a member of the Martini family would be controversial, but it is certainly related in terms of proportions and technique.
+- **Manhattan**: Substitute gin/vodka for whiskey, substitute dry vermouth for sweet red vermouth, add a few dashes of **Angostura bitters**.  
+Calling the Manhattan a member of the Martini family would be controversial, but it is certainly related in terms of proportions and technique. In a way the Manhattan stands between an Old-fashioned and a Martini: substitutes the bitters and sugar of the Old-fashioned with vermouth, and is mixed and served without ice on a cocktail glass, like a Martini.  
 The traditional garnish is a maraschino cherry, but can be substituted with an orange peel.
 
 ### The Negroni family
