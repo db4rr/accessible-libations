@@ -89,7 +89,7 @@ Składniki: **1 duża miarka ginu lub wódki**, **1 mała miarka wytrawnego werm
 
 | Alternatywy bezalkoholowe |
 | :-- |
-| Zamień gin na gin bezalkoholowy, zamień wermut na wino bezalkoholowe, postępuj zgodniej z wybranym przepisem wyżej |
+| Zamień gin na gin bezalkoholowy, zamień wermut na wino bezalkoholowe, postępuj zgodnie z wybranym przepisem wyżej |
 
 ### Negroni
 
@@ -109,4 +109,4 @@ Składniki: **1 mała miarka Campari**, **1 mała miarka słodkiego czerwonego w
 
 | Alternatywy bezalkoholowe |
 | :-- |
-| Zamień Campari na aperitif bezalkoholowy, zamień wermut na czerwone wino bezalkoholowe, zamień gin na bezalkoholowy gin, postępuj zgodniej z wybranym przepisem wyżej |
+| Zamień Campari na aperitif bezalkoholowy, zamień wermut na czerwone wino bezalkoholowe, zamień gin na bezalkoholowy gin, postępuj zgodnie z wybranym przepisem wyżej |
