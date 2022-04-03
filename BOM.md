@@ -6,7 +6,7 @@ This bill of materials is meant for a celebration with between 30 to 40 guests, 
 The celebration was to be hosted in Poland, hence the references to products available in the Polish market as of 2022.
 
 ### Mixers
-- 4x 1L bottles of highly carbonated water, like [Żywiec Zdroj Mocny Gaz](https://www.frisco.pl/pid,5544/n,zywiec-zdroj-mocny-gaz/stn,product)
+- 5x 1L bottles of highly carbonated water, like [Żywiec Zdroj Mocny Gaz](https://www.frisco.pl/pid,5544/n,zywiec-zdroj-mocny-gaz/stn,product)
 - 4x 1L bottles of low-sugar tonic water, like [Marks & Spencer's](https://www.frisco.pl/pid,134836/n,marks---spencer-napoj-gazowany-indian-tonic-water-(bez-cukru)/stn,product)
 - 4x 1L bottles of low-sugar ginger beer, like [Marks & Spencer's](https://www.frisco.pl/pid,122055/n,marks---spencer-niskokaloryczny-gazowany-napoj-imbirowy-ze-slodzikiem/stn,product)
 
@@ -65,9 +65,9 @@ A good compromise are these [IKEA wine glasses](https://www.ikea.com/pl/pl/p/foe
 - Mint with muddler in container
 - Rosemary with muddler in scontainer
 - Cane sugar with teaspoon in container
-- 3 bottles of carbonated water
-- 3 bottles of tonic water
-- 3 bottles of ginger beer
+- 4 bottles of carbonated water
+- 4 bottles of tonic water
+- 4 bottles of ginger beer
 - Lime juicer
 - Lemon juicer
 - Halved limes in container
