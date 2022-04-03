@@ -4,6 +4,7 @@ Human gatherings can be enriched by shared enjoyment of mixed beverages and the 
 # What
 - [Ideas](ideas.html) 
 - [Recipes](recipes.html)
+  - [Recipes in Polish](przepisy.html) 
 - [Bills of Materials](BOM.html)
 
 # How
