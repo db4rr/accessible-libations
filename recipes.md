@@ -76,7 +76,7 @@ Ingredientes: **1 full measure of gin or vodka**, **1 small measure of dry vermo
 1. Pour 1 small measure of dry vermouth
 1. Stir for at least 5 seconds to dillute drink
 1. Pour into cocktail glass with cocktail strainer
-1. Garnish with 2 olives.
+1. Garnish with 2 olives
 1. Enjoy!
 
 | Variations | |
@@ -108,4 +108,4 @@ Ingredients: **1 small measure of campari**, **1 small measure of sweet red verm
 
 | Non-alcocholic variations |
 | --- |
-| Subsitute Campari with non-alcoholic aperitif, substitute vermouth with non-alcoholic red wine, substitute gin with non-alcoholic gin. |
+| Subsitute Campari with non-alcoholic aperitif, substitute vermouth with non-alcoholic red wine, substitute gin with non-alcoholic gin, follow any of the recipes above |
