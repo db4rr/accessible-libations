@@ -94,7 +94,7 @@ A good compromise are these [IKEA wine glasses](https://www.ikea.com/pl/pl/p/foe
 #### Martini stand
 - Ice bucket
 - Cocktail glasses
-- 2x Mixing glass with spoons
+- 2x Mixing glass with spoons and ice strainers
 - 1x bottle of gin
 - 1x bottle of vodka
 - 1x bottle of dry vermouth
