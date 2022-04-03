@@ -28,7 +28,8 @@ Ingredients: **1 full measure of white rum**, **juice of half a lime**, **sugar*
 1. Add the juice of half a lime
 1. Add a splash of carbonated water and fill the glass with ice
 1. Add a measure of white rum and top with soda water
-1. Add a straw, stir, garnish with mint and enjoy!
+1. Add a straw, stir, garnish with mint
+1. Enjoy!
 
 | Variations | |
 | --- | --- |
@@ -55,6 +56,7 @@ Ingredients: **1 full measure of vodka**, **juice of half a lime**, **ginger bee
 1. Add the juice of half a lime
 1. Top up with ginger beer
 1. Garnish with wedge of lime
+1. Enjoy!
 
 | Variations | |
 | --- | --- |
@@ -74,7 +76,8 @@ Ingredientes: **1 full measure of gin or vodka**, **1 small measure of dry vermo
 1. Pour 1 small measure of dry vermouth
 1. Stir for at least 5 seconds to dillute drink
 1. Pour into cocktail glass with cocktail strainer
-1. Garnish with 2 olives. Enjoy!
+1. Garnish with 2 olives.
+1. Enjoy!
 
 | Variations | |
 | --- | --- |
@@ -83,7 +86,9 @@ Ingredientes: **1 full measure of gin or vodka**, **1 small measure of dry vermo
 | **Dirty Martini** | Add a splash of olive brine to the mixing glass before stirring the drink |
 | **50/50 Martini** | Use equal parts vermouth and gin/vodka |
 
-Non-alcoholic Martinis can be made with non-alcoholic gin and non-alcoholic wine
+| Non-alcocholic variations |
+| --- |
+| Substitute gin with non-alcoholic gin, substitute vermouth with non-alcoholic wine, follow any of the recipes above |
 
 ### Negroni
 
@@ -92,4 +97,15 @@ Ingredients: **1 small measure of campari**, **1 small measure of sweet red verm
 
 1. Combine all ingredients on the glass
 1. Add ice
-1. Stir and enjoy!
+1. Stir, garnish with a piece of orange
+1. Enjoy!
+
+| Variations | |
+| --- | --- |
+| **Boulevardier** | Substitute gin with whiskey or bourbon |
+| **Milano Torino** | Skip the gin, make the drink 50/50 Campari and vermouth |
+| **Americano** | Skip the gin, top up with carbonated water. Can be served in a highball increasing the proportions to full measures |
+
+| Non-alcocholic variations |
+| --- |
+| Subsitute Campari with non-alcoholic aperitif, substitute vermouth with non-alcoholic red wine, substitute gin with non-alcoholic gin. |
