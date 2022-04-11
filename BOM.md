@@ -30,7 +30,7 @@ The celebration was to be hosted in Poland, hence the references to products ava
 - 2x bottles of **vodka**
 - 1x bottle of **rum**
 - 1x bottle of **rye whiskey** (substitute with Irish whiskey if not available)
-- 2x bottlse of **bourbon**
+- 2x bottles of **bourbon**
 - 1x bottle of **dry vermouth** (Martini's dark green bottle)
 - 1x bottle of **red sweet vermouth**
 - 1x bottle of **Campari**
